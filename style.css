@@ -1,0 +1,28 @@
+@charset "UTF-8";
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    height: 97vh;
+}
+section{
+    border: 2px solid red;
+    height: 97vh;
+    width: 100vw;
+}
+article{
+    width: 600px;
+    height: 400px;
+    display: inline-block;
+    border: 2px solid rgb(30, 255, 0);
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+form{
+    background-color: red;
+    padding: 150px;
+    
+}
