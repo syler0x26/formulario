@@ -6,3 +6,18 @@
 body{
     height: 97vh;
 }
+main{
+    height: 97vh;
+}
+fieldset{
+    margin: 20px;
+    display: inline-block;
+    padding: 20px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+p{
+    margin-bottom: 10px;
+}
